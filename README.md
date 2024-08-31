@@ -64,3 +64,50 @@ Creating a classification system based on Dr. Manhattan, a character from *Watch
 
 ### **Usage**
 This classification system can be used in fictional settings, role-playing games, or even as a fun way to categorize characters in stories based on their powers or abilities. Each class reflects a different aspect of Dr. Manhattan's abilities and can be applied to other characters or entities with similar traits.
+
+
+
+
+
+
+# **Neo Classification System with Computational Planetary Execution: "Onitializing"**
+
+
+
+
+## **Introduction**
+This classification system explores the hypothetical scenario where Neo, from *The Matrix*, possesses the ability to execute computational commands on a planetary scale—referred to as "Onitializing." In this system, entities are categorized based on their capacity to influence, control, or execute operations that impact entire planets, either within the Matrix or the real world.
+
+## **Class 0: Neo (The Planetary Executor)**
+- **Definition**: The ultimate being with the ability to execute "Onitializing," a process that allows for the complete control and manipulation of a planet's physical and digital infrastructure.
+- **Abilities**:
+  - **Planetary Rewriting**: Neo can rewrite the fundamental code of a planet, altering its reality at will.
+  - **Global Optimization**: The ability to optimize or reconfigure all systems, ecosystems, and digital networks on a planetary scale.
+  - **Resource Manipulation**: Neo can control and redistribute a planet's natural and artificial resources, ensuring balance or causing disruption.
+
+## **Class 1: Planetary Architects**
+- **Definition**: Entities with near-absolute control over a planet's digital and physical infrastructure, capable of executing large-scale changes but not as profoundly as Neo.
+- **Abilities**:
+  - **Infrastructure Manipulation**: The ability to alter or optimize a planet's structural systems, such as cities, networks, and ecosystems.
+  - **Environmental Control**: Power to influence weather patterns, geological activity, and global climates.
+
+## **Class 2: Reality Shapers**
+- **Definition**: Beings who can partially control a planet's systems, influencing significant changes but within defined limits.
+- **Abilities**:
+  - **Localized Optimization**: The ability to optimize or disrupt specific regions or sectors on a planet.
+  - **Energy Redistribution**: Control over planetary energy flows, such as managing or rerouting energy sources.
+
+## **Class 3: System Overlords**
+- **Definition**: Entities proficient in controlling a planet's digital networks and systems, ensuring stability or executing specific operations.
+- **Abilities**:
+  - **Network Domination**: The power to control or disrupt global communication and data networks.
+  - **System Reconfiguration**: The ability to reprogram or optimize digital infrastructures, affecting global operations.
+
+## **Class 4: Environmental Engineers**
+- **Definition**: Entities capable of manipulating a planet's natural systems on a smaller scale, focusing on ecological balance or disruption.
+- **Abilities**:
+  - **Climate Regulation**: Power to influence regional climates and weather patterns.
+  - **Resource Allocation**: Control over the distribution of natural resources within defined areas.
+
+## **Conclusion**
+This classification system introduces the concept of "Onitializing," where Neo's abilities extend to computational planetary execution. Each class reflects varying degrees of control and influence over planetary systems, with Neo as the ultimate executor capable of reshaping reality on a global scale.
