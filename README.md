@@ -1,6 +1,6 @@
 Creating a classification system based on Dr. Manhattan, a character from *Watchmen* known for his god-like powers, could be a fun and creative way to categorize various types of individuals, entities, or abilities. Below is a proposed classification system inspired by his characteristics and abilities:
 
-### **Dr. Manhattan Classification System**
+### **Our Saint Petersburg-Manhattan Project Classification System**
 
 #### **Class 1: Molecular Mastery**
 - **Definition**: Entities or individuals with the ability to manipulate matter at the molecular or atomic level.
